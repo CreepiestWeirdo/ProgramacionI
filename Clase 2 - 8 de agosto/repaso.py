@@ -115,4 +115,3 @@ resultado = (2 > 3 or 2 > 4)
 print("logica")
 print(resultado)
 print(type(resultado))
-
