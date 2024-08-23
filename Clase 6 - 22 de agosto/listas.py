@@ -22,7 +22,7 @@ print(frutas[1 : 4]) #slicing
 print(frutas[1 : -1]) 
 
 
-#TAREA PARA EL LUNES, RECORRER LA LISTA CON FOR 
+#TAREA PARA EL MARTES, RECORRER LA LISTA CON FOR 
 for fruta in frutas:
 
     while i < 4:
